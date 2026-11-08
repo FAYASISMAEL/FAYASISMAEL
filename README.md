@@ -24,3 +24,61 @@ src="https://img.shields.io/github/followers/FAYASISMAEL?logo=github&style=for-t
 ### Badges
 
 <a href="https://github.com/FAYASISMAEL" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAYASISMAEL&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+## 💼 Work Experience
+
+<table>
+<tr>
+<td width="100%">
+
+### 🚀 Project Manager — Hive
+**Present**
+
+- Managing projects and coordinating development activities.
+- Working with teams to plan, organize, and execute projects.
+- Focusing on collaboration, execution, and project delivery.
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### 🤖 AI Engineer Intern — Techmindz by NDZ
+**Artificial Intelligence & Machine Learning**
+
+- Gained practical experience working with AI and ML technologies.
+- Explored AI-driven solutions and real-world applications.
+- Worked on developing technical and problem-solving skills.
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### 💻 Junior Software Developer — Synnefo Solutions
+**MERN Stack Development**
+
+- Worked on full-stack web application development.
+- Built and worked with applications using the MERN stack.
+- Gained experience with frontend, backend, REST APIs, and database integration.
+
+**Technologies:**
+
+`MongoDB` `Express.js` `React.js` `Node.js` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### 🌐 Community Lead — Cenit Labs
+**Community & Technology**
+
+- Contributed to technology community initiatives.
+- Supported community engagement and technical activities.
+- Helped coordinate learning opportunities and tech events.
+
+</td>
+</tr>
+</table>
